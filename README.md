@@ -1,2 +1,1 @@
-# CSE110
-UCSD CSE110
+Mark's User Page
